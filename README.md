@@ -5,3 +5,4 @@ Cheatsheets for various utilities
   * ssh
   * tmux
   * postfix
+  * awk
