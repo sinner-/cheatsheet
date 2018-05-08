@@ -6,3 +6,5 @@ Cheatsheets for various utilities
   * tmux
   * postfix
   * awk
+  * dd
+  * dnf
