@@ -2,9 +2,13 @@
 Cheatsheets for various utilities
 
 ## cheatsheets
-  * ssh
-  * tmux
-  * postfix
   * awk
   * dd
   * dnf
+  * gpg
+  * postfix
+  * squid
+  * ssh
+  * tcpdump
+  * tmux
+  * vim
