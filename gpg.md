@@ -3,7 +3,7 @@
 * Generate a new private/public keypair:
   * `gpg --gen-key`
 * Export ASCII armoured public key:
-  * `gpg --armor --output <ID>`
+  * `gpg --export --armor <ID>`
 * Import a public key:
   * `gpg --import keyfile.gpg`
 * Encrypt file for recipient with ASCII armouring:
@@ -13,4 +13,4 @@
   * Type message.
   * `Ctrl-D` to end message.
 * Decrypt a file:
-  * `gpg --decrypt filetobedecrypted.gpg --output file.txt`
+  * `gpg --decrypt filetobedecrypted.gpg`
